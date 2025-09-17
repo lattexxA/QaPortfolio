@@ -1,2 +1,2 @@
 * портфолио qa 
-*lattexx_A
+** lattexx_A
