@@ -7,4 +7,3 @@
 **Ручное тестирование:** 
 ![Test Cases](https://img.shields.io/badge/Test_Cases-✓-green)
 ![Bug Reports](https://img.shields.io/badge/Bug_Reports-✓-green)
-![Test Planning](https://img.shields.io/badge/Test_Planning-✓-green)
